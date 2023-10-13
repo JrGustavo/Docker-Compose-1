@@ -24,4 +24,4 @@ services:
 
 # volumes:
 #   postgres-db:
-#     external: truerue
+#     external: true
